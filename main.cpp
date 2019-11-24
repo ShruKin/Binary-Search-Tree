@@ -3,7 +3,7 @@
 int main(int argc, char const *argv[])
 {
     int ch, data;
-    struct BSTree *root;
+    struct BSTree *root = NULL;
 
     while(1){
         printf("MENU");
